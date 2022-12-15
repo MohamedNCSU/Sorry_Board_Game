@@ -1,5 +1,5 @@
-# ece-309-final-project
-ECE 309 Final Project
+# "Sorry!" in C++
+Collaborative Project
 
 We created the game “Sorry!” in C++. Sorry! is a board game where
 players move their four pawns around the board in order to get all
